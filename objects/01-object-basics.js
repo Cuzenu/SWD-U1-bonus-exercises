@@ -48,7 +48,7 @@ let oldDrill = {
 console.log(`In 1999, my dad gave me his old drill. It was a ${oldDrill["brand"]}.`); // note key is in quotes
 
 // EXAMPLE: Use dot notation to print the brand of newDrill.
-console.log(`After 20 years I finally got a new drill. It's a ${newDrill.brand}.`);
+console.log(`After 20 years I finally got a new drill. It is a ${newDrill.brand}.`);
 
 // TRY IT! Use bracket notation to print whether oldDrill is cordless.
 
